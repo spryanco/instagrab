@@ -6,7 +6,8 @@ I produced this one night while creating https://lucaregan.co.uk to showcase pho
 can be made the way you like through styling the `.instagrab-stream` class (the wrapper) or individual img elements `.instagrab`. 
 
 ## Installation
-Download instagrab.php and put it into a squeeky clean directory named `instagrab`. Upload this directory to the `wp-content/plugins` directory of your
-Wordpress installation. 
+Download instagrab.php and put it into a squeeky clean directory named `instagrab`. Upload this directory to the `wp-content/plugins` directory of your Wordpress installation.
+
+Then add `[instagrab-feed]` into any of your Wordpress content areas/pages. 
 
 Enjoy!
