@@ -2,7 +2,7 @@
 A lightweight WordPress plugin for displaying your Instagram feed ready to be styled. Essentially does what it says on the tin.
 
 ## About
-I produced this one night while creating https://lucaregan.co.uk to showcase photos from an Instagram feed. It does not come pre-styled but
+I produced this one night while creating a photographer portfolio page to showcase photos from an Instagram feed. It does not come pre-styled but
 can be made the way you like through styling the `.instagrab-stream` class (the wrapper) or individual img elements `.instagrab`. 
 
 ## Installation
